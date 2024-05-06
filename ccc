@@ -1,0 +1,62 @@
+
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>
+
+</title>
+    <style type="text/css">
+        .auto-style1 {
+            width: 164px;
+        }
+
+        .auto-style2 {
+            width: 108px;
+        }
+    </style>
+</head>
+<body>
+    <form name="form1" method="post" action="/Fwadmin/BatchCertificate/CheckUserCertificate.aspx?user_nm=1256535&amp;year=22" id="form1">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUINzg2NzQwNTgPZBYCAgMQZGQWBgIBDw8WAh4EVGV4dAUG5rGg5L6oZGQCAw8PFgIfAAUSNTAwMjQxMTk5MTAzMDUxMDFYZGQCBQ8WAh4LXyFJdGVtQ291bnQCARYCZg9kFgJmDxUDXjIwMjEtMjAyMuW5tOW6puivvueoi+Wll+mkkOS4ie+8muawkeazleWFuOS4juazleayu+aAnee7tOW7uuiuvivkuK3lm73mipfnlqvlvbDmmL7liLbluqbkvJjlir8CMzAG5ZCI5qC8ZGRDHZ7T7x7hd9EuhpIRLgMxXPni7/JxARuD/49W0DQz/g==" />
+</div>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="056928E1" />
+</div>
+        <div>
+            姓名：<span id="lbl_name">杨阳</span>
+            <br />
+            <br />
+            身份证：<span id="lbl_idCard">420204198901134913</span>
+            <br />
+            <br />
+            <table border="1">
+                <tr class="row">
+                    <td align="center" valign="middle">科目
+                    </td>
+                    <td align="center" valign="middle">学时
+                    </td>
+                    <td align="center" valign="middle">成绩
+                    </td>
+                </tr>
+                
+                        <tr class="row">
+                            <td align="center" valign="middle">
+                                2021-2022年度课程套餐三：民法典与法治思维建设+中国抗疫彰显制度优势
+                            </td>
+                            <td align="center" valign="middle">
+                                30
+                            </td>
+                            <td align="center" valign="middle">
+                                合格
+                            </td>
+                        </tr>
+                    
+            </table>
+        </div>
+    </form>
+</body>
+</html>
